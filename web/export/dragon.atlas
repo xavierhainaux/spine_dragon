@@ -1,0 +1,230 @@
+
+dragon.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+companions/aile_d
+  rotate: false
+  xy: 2, 2
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+companions/aile_d_blur
+  rotate: false
+  xy: 577, 656
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+companions/aile_g
+  rotate: false
+  xy: 181, 211
+  size: 127, 136
+  orig: 127, 136
+  offset: 0, 0
+  index: -1
+companions/aile_g_blur
+  rotate: true
+  xy: 490, 714
+  size: 151, 85
+  orig: 151, 85
+  offset: 0, 0
+  index: -1
+companions/body
+  rotate: false
+  xy: 2, 770
+  size: 334, 252
+  orig: 334, 252
+  offset: 0, 0
+  index: -1
+companions/corne_d
+  rotate: false
+  xy: 564, 464
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+companions/corne_g
+  rotate: true
+  xy: 456, 386
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+companions/eye_close_d
+  rotate: false
+  xy: 538, 907
+  size: 217, 115
+  orig: 217, 115
+  offset: 0, 0
+  index: -1
+companions/eye_open
+  rotate: true
+  xy: 2, 140
+  size: 217, 115
+  orig: 217, 115
+  offset: 0, 0
+  index: -1
+companions/lava_aile_d
+  rotate: false
+  xy: 324, 369
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+companions/lava_aile_d_blur
+  rotate: false
+  xy: 707, 658
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+companions/lava_aile_g
+  rotate: false
+  xy: 577, 770
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: -1
+companions/lava_aile_g_blur
+  rotate: false
+  xy: 757, 868
+  size: 150, 84
+  orig: 150, 84
+  offset: 0, 0
+  index: -1
+companions/lava_body
+  rotate: false
+  xy: 2, 516
+  size: 334, 252
+  orig: 334, 252
+  offset: 0, 0
+  index: -1
+companions/lava_corne_d
+  rotate: true
+  xy: 705, 772
+  size: 94, 142
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+companions/lava_corne_g
+  rotate: false
+  xy: 119, 206
+  size: 60, 151
+  orig: 60, 151
+  offset: 0, 0
+  index: -1
+companions/lava_eye_close
+  rotate: false
+  xy: 757, 954
+  size: 237, 68
+  orig: 237, 68
+  offset: 0, 0
+  index: -1
+companions/lava_moustaches
+  rotate: false
+  xy: 338, 673
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+companions/lava_nez
+  rotate: false
+  xy: 538, 890
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+companions/lava_patte_avant_d
+  rotate: false
+  xy: 909, 823
+  size: 103, 129
+  orig: 103, 129
+  offset: 0, 0
+  index: -1
+companions/lava_patte_avant_g
+  rotate: false
+  xy: 460, 444
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+companions/lava_pattes_arrieres
+  rotate: false
+  xy: 338, 867
+  size: 198, 155
+  orig: 198, 155
+  offset: 0, 0
+  index: -1
+companions/lava_queue
+  rotate: false
+  xy: 202, 349
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+companions/lava_sourcil_d
+  rotate: true
+  xy: 119, 141
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+companions/lava_sourcil_g
+  rotate: false
+  xy: 627, 506
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+companions/nez
+  rotate: false
+  xy: 324, 352
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+companions/patte_avant_d
+  rotate: false
+  xy: 460, 543
+  size: 102, 128
+  orig: 102, 128
+  offset: 0, 0
+  index: -1
+companions/patte_avant_g
+  rotate: true
+  xy: 564, 552
+  size: 102, 124
+  orig: 102, 124
+  offset: 0, 0
+  index: -1
+companions/pattes_arrieres
+  rotate: false
+  xy: 2, 359
+  size: 198, 155
+  orig: 198, 155
+  offset: 0, 0
+  index: -1
+companions/queue
+  rotate: false
+  xy: 338, 506
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+companions/sourcil_d
+  rotate: false
+  xy: 849, 812
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+companions/sourcil_g
+  rotate: false
+  xy: 627, 459
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
